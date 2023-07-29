@@ -13,16 +13,16 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key',
+	'https://zenzapi.xyz': 'BeYu9vfKtxyU2kJ',
 }
 
 // Other
-global.owner = ['6285795586847','6285795586847']
-global.web = 'https://www.youtube.com/channel/UCKTdQnHWeGgwiwz35zmduGg'
-global.bot = 'Harley-MD'
-global.premium = ['6285795586847']
-global.packname = 'SashaCh'
-global.author = 'SashaCh'
+global.owner = ['6288296172396','6285776568948']
+global.web = 'https://youtube.com/@fizzx598'
+global.bot = 'Isagi-MD'
+global.premium = ['6288296172396']
+global.packname = 'Isagi-MD'
+global.author = 'FizzxCh'
 global.sessionName = 'Harley'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
